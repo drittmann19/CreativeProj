@@ -1,0 +1,10 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Damean Rittmann -- Custom Boilerplate -- Creative Web Development
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, SCSS, Webpack, Javascript
