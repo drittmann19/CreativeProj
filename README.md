@@ -1,4 +1,4 @@
-# [Beginner AnimeJs Tutorial]
+# Beginner AnimeJs Tutorial
 
 ## Set Up
 
